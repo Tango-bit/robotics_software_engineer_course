@@ -108,4 +108,8 @@
     <material>Gazebo/Black</material>
   </gazebo>
 
+  <gazebo reference="chassis">
+    <material>Gazebo/Wood</material>
+  </gazebo>
+
 </robot>
